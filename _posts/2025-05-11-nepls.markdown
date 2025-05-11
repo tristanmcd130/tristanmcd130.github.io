@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "NEPLS 2025"
+date:   2025-05-11 11:08:00 -0400
+categories: programming-languages
+---
+The semester is finally over. All my finals have been completed and all projects have been turned on. I just finished doing research with Professor Cimini on his Lang-n-Prove tool. Let's have some fun and go to the New England Programming Language Symposium, which was hosted at UML this year.
+
+![A panorama view of the conference hall](/assets/nepls_panorama.jpg)
+
+I had never been to a conference like this before and so I didn't really know what to expect. One thing that honestly surprised me was the fact that people from so many different universities as far away as University of Waterloo in Canada were in attendance. Supposedly, Shriram Krishnamurthmi, one of the inventors of Racket, was going to be there but he never came. For some reason, since this was hosted at UML I kind of assumed it was a small local thing, but no, I suppose true to its name it is supposed to represent all of New England. I saw very few nametags with UML on them, and nobody I knew was there. Talking to people there, it also seemed like the vast majority of them were graduate students. To some extent, it made me feel a bit out of my depth: I was surrounded by professors and PhD students who had years of experience doing research in programming languages, meanwhile all I had to my name was an interest in the field and a 3 month-long research job. Despite this, I was able to hold my own in conversations with everyone else, and I was able to understand what they were talking about. I talked to people about the programming language that I was working on and they seemed genuinely interested in it. Even though everyone there had different levels of experience, in the end we were all equals.
+
+![A poem about formal verification: "it works really well, but it's hard as hell."](/assets/nepls_poem.jpg)
+
+If this conference was supposed to reveal the big trends in programming languages nowadays, it would definitely seem like proofs and formal verification are all the rage right now. Of the 15 talks, I'd say 8 of them involved it in some way, and of those 8, 5 of them had formal verification as the core topic. This makes me glad that my research with Cimini was on what it was on, as now I have some insight into the most popular topic in the field currently.
+
+ML/AI/LLMs were also a somewhat popular topic, but certainly less so than proofs. 1 talk managed to combine both in a pretty interesting way. Aside from that, there were 5 talks about type systems, and 2 about user experience/human-computer interaction. 
+
+![A poster about vernacular software](/assets/nepls_poster.jpg)
+
+Before lunchtime there was a poster session where the presenters of the short 5 minute-long talks could go more in depth on their topics. They had some interesting ideas, like a proof assistant with extensible datatypes, a statically-typed shell based on regular expressions, and a new form of literate programming meant to be understood by programmers, users, and LLMs alike. During lunch there was an opportunity to tour the campus' nuclear reactor, but it required getting a security clearance ahead of time and I didn't want to have to go through that.
+
+All in all, I had a lot of fun at NEPLS. I learned a lot, and met a lot of interesting people with interesting ideas. I learned about what was popular in the field right now, and the directions it would likely head in the future. If there's 1 thing I'm still confused about though, it's why more people from UML didn't show up. Attendance was free and breakfast and lunch were provided. The conference was long; it lasted it from 9 to 4, but you didn't have to stay the whole time. Why not take this opportunity to get the kind of insights I got from this, especially when it's right at your own university? The last time NEPLS was hosted at UML was in 2017, and as of 2018 it doesn't seem like NEPLS is even hosted every year anymore, probably due to the pandemic messing everything up. When there's a chance to participate in something like this at such low cost, you have to take that chance. It's how you meet new people, it's how you gauge the state of the field, it's how you get new ideas. I know I certainly got some new ideas that I plan on (trying to) implement in programming languages of mine.
+
+Finally, I'd like to give a shout out to Eamon Meng from MIT and Richard Durkee from Brown. It was a lot of fun talking to you guys about programming languages, work experience, math, and Elden Ring.
